@@ -16,12 +16,9 @@ function App() {
   return (
   
       <div className="App">
-        <h1>Welcome to Narnia</h1>  
+        
         <HelloWorld/>
-        <p>This World is Fantastic: {name}</p>
-        <input className="valor" type='number'/>
-        <p>Soma: {Soma(24,12)}</p>
-
+        
         <img src={url} alt='Minha imagem'/>
       </div>
 

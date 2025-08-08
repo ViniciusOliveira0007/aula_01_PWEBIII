@@ -1,7 +1,12 @@
+import Logo from "./logo.jsx"
+
+
 function Frase (){
         return(
             <div>
-                <p>Meu segundo componente!!!</p>
+                <Logo/>
+                <p>Criado pela nintendo...</p>
+                
             </div>
         ) 
 

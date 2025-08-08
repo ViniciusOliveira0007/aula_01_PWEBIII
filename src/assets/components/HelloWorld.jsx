@@ -5,7 +5,7 @@ function HelloWorld (){
     return (
         <div>
             <Frase/>
-            <p>Meu primeiro componente!!!</p>
+            <p>Super Mario!!!</p>
         </div>
     )
 
